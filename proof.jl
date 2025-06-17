@@ -13,7 +13,7 @@ import PermutationGroups as PG
 include("optimizers.jl")
 include("check_positivity.jl")
 
-N = 4
+N = 5
 G = SpecialAutomorphismGroup(FreeGroup(N))
 @info "running tests for" G
 RG, S, sizes = PropertyT.group_algebra(G; halfradius = 2)
