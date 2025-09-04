@@ -1,5 +1,5 @@
 # autf5-property-t
-Replicating the proof of property (T) for Aut(F5) using the package https://github.com/kalmarek/PropertyT.jl that was made for paper https://arxiv.org/pdf/1712.07167. 
+Replicating the proof of property (T) for Aut(F5) using the package https://github.com/kalmarek/PropertyT.jl that was made for paper the https://arxiv.org/pdf/1712.07167. 
 
 # Setup
 
