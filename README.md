@@ -11,5 +11,5 @@ Pkg.activate(".")
 Pkg.instantiate()
 ```
 
-Run the `proof.jl` script for the proof of $\mathbf{Aut}(F_5)$ having (T).
+Run the `proof_aut_f5.jl` script for the proof of $\mathbf{Aut}(F_5)$ having (T).
 
